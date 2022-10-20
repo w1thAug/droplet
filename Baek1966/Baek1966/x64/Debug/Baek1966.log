@@ -1,0 +1,3 @@
+﻿  baek1966.cpp
+C:\Users\COIN\Desktop\NOW\2022\algorithm\Baek1966\Baek1966\baek1966.cpp(9,9): warning C4101: 'temp_order' :참조되지 않은 지역 변수입니다.
+  Baek1966.vcxproj -> C:\Users\COIN\Desktop\NOW\2022\algorithm\Baek1966\x64\Debug\Baek1966.exe
