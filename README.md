@@ -7,9 +7,9 @@
 </div>
 
 ***
- ### 1. [BaekJoon]()
- ### 2. [leatCode]()
- ### 3. [수업 내용 정리]()
+ ### 1. [BaekJoon](https://github.com/w1thAug/droplet/blob/baekjoon/README.md)
+ ### 2. [leatCode](https://github.com/w1thAug/droplet/blob/leatcode/README.md()
+ ### 3. [수업 내용 정리](https://github.com/w1thAug/droplet/blob/algorithm/README.md)
  ### 4. [SDG Project ; shift]()
 
 
