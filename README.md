@@ -8,7 +8,7 @@
 
 ***
  ### 1. [BaekJoon](https://github.com/w1thAug/droplet/tree/baekjoon)
- ### 2. [leatCode](https://github.com/w1thAug/droplet/blob/leatcode)
+ ### 2. [leatCode](https://github.com/w1thAug/droplet/blob/leatcode/README.md)
  ### 3. [수업 내용 정리](https://github.com/w1thAug/droplet/tree/algorithm)
  ### 4. [SDG Project ; shift]()
 
