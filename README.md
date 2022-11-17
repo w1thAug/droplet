@@ -1,8 +1,8 @@
 ***
 
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=f0f0f0&height=100&section=header&text=TRASH&fontSize=90&fontAlign=60)
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=626ab5&height=100&section=header&text=SHIFT&fontSize=90&fontAlign=60)
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=f0f0f0&height=100&section=header&text=FRESH&fontSize=90&fontAlign=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=f0f0f0&height=100&section=header&text=TRASH&fontSize=90&fontAlign=45)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=626ab5&height=100&section=header&text=SHIFT&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=f0f0f0&height=100&section=header&text=FRESH&fontSize=90&fontAlign=55)
 
 ***
 
